@@ -1,6 +1,8 @@
 # pi-vs-cc
 
-A collection of [Pi Coding Agent](https://github.com/mariozechner/pi-coding-agent) customized instances. _Why?_ To showcase what it looks like to hedge against the leader in the agentic coding market, Claude Code. Here we showcase how you can customize the UI, agent orchestration tools, safety auditing, and cross-agent integrations. 
+> **This is a clone of the original [pi-vs-claude-code](https://github.com/disler/pi-vs-claude-code) repository by [@disler](https://github.com/disler), enhanced with extensive documentation including a comprehensive architecture guide, developer guide, quick start guide, and a zero-to-hero study plan — all designed so that future developers and users can get up to speed without any external help.**
+
+A collection of [Pi Coding Agent](https://github.com/mariozechner/pi-coding-agent) customized instances. _Why?_ To showcase what it looks like to hedge against the leader in the agentic coding market, Claude Code. Here we showcase how you can customize the UI, agent orchestration tools, safety auditing, and cross-agent integrations.
 
 <div align="center">
   <img src="./images/pi-logo.png" alt="pi-vs-cc" width="700">
