@@ -223,6 +223,23 @@ The `damage-control` extension provides real-time security hooks to prevent cata
 | **[ARCHITECTURE.md](docs/ARCHITECTURE.md)** | All | Comprehensive architecture document with 10+ ASCII diagrams, communication flows, data flows |
 | **[DEVELOPER_GUIDE.md](docs/DEVELOPER_GUIDE.md)** | Developers | Full API reference, extension anatomy, patterns, tutorials for creating new extensions |
 
+### Hands-On Tutorials
+
+10 progressive tutorials taking you from beginner to multi-agent orchestration:
+
+| # | Tutorial | What You Build |
+| --- | --- | --- |
+| 01 | **[Your First Extension](docs/tutorials/01-your-first-extension.md)** | Session-info footer with model name and context meter |
+| 02 | **[Custom Widget](docs/tutorials/02-custom-widget.md)** | Live-stats widget with colored tool-call badges |
+| 03 | **[Slash Commands](docs/tutorials/03-slash-commands.md)** | Bookmarks extension with `/bookmark` command and Ctrl+B shortcut |
+| 04 | **[Custom Tool](docs/tutorials/04-custom-tool.md)** | Notes tool with add/list/get/remove and TypeBox schemas |
+| 05 | **[Event Interception](docs/tutorials/05-event-interception.md)** | Safe-bash extension that blocks dangerous commands |
+| 06 | **[Overlay UI](docs/tutorials/06-overlay-ui.md)** | Interactive help overlay with keyboard navigation |
+| 07 | **[System Prompt Injection](docs/tutorials/07-system-prompt-injection.md)** | Persona switcher with tool restriction |
+| 08 | **[Background Subagent](docs/tutorials/08-background-subagent.md)** | `/research` command spawning background Pi workers |
+| 09 | **[Multi-Agent Dispatcher](docs/tutorials/09-multi-agent-dispatcher.md)** | Mini-team dispatcher with specialist agents |
+| 10 | **[Agent Pipeline](docs/tutorials/10-agent-pipeline.md)** | Review pipeline with chained agent steps |
+
 ### Reference
 
 | Document | Audience | Description |
