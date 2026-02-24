@@ -213,15 +213,15 @@ The `damage-control` extension provides real-time security hooks to prevent cata
 
 | Document | Audience | Description |
 | --- | --- | --- |
-| **[QUICKSTART.md](QUICKSTART.md)** | New users | Step-by-step setup, 10 hands-on use cases, commands cheat sheet, troubleshooting |
-| **[STUDY_PLAN.md](STUDY_PLAN.md)** | Learners | Zero-to-hero study plan: 9 phases from TypeScript basics to multi-agent mastery |
+| **[QUICKSTART.md](docs/QUICKSTART.md)** | New users | Step-by-step setup, 10 hands-on use cases, commands cheat sheet, troubleshooting |
+| **[STUDY_PLAN.md](docs/STUDY_PLAN.md)** | Learners | Zero-to-hero study plan: 9 phases from TypeScript basics to multi-agent mastery |
 
 ### Architecture & Development
 
 | Document | Audience | Description |
 | --- | --- | --- |
-| **[ARCHITECTURE.md](ARCHITECTURE.md)** | All | Comprehensive architecture document with 10+ ASCII diagrams, communication flows, data flows |
-| **[DEVELOPER_GUIDE.md](DEVELOPER_GUIDE.md)** | Developers | Full API reference, extension anatomy, patterns, tutorials for creating new extensions |
+| **[ARCHITECTURE.md](docs/ARCHITECTURE.md)** | All | Comprehensive architecture document with 10+ ASCII diagrams, communication flows, data flows |
+| **[DEVELOPER_GUIDE.md](docs/DEVELOPER_GUIDE.md)** | Developers | Full API reference, extension anatomy, patterns, tutorials for creating new extensions |
 
 ### Reference
 

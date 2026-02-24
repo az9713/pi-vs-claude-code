@@ -31,10 +31,10 @@ Pi Coding Agent extension examples and experiments.
 - Agent definitions use frontmatter format: `---\nname: ...\ndescription: ...\ntools: ...\n---\n<system prompt>`
 
 ## Documentation
-- **QUICKSTART.md** — Setup and 10 hands-on use cases for new users
-- **ARCHITECTURE.md** — Full architecture with ASCII diagrams and communication flows
-- **DEVELOPER_GUIDE.md** — API reference, extension anatomy, tutorials, patterns
-- **STUDY_PLAN.md** — Zero-to-hero learning plan (9 phases)
+- **docs/QUICKSTART.md** — Setup and 10 hands-on use cases for new users
+- **docs/ARCHITECTURE.md** — Full architecture with ASCII diagrams and communication flows
+- **docs/DEVELOPER_GUIDE.md** — API reference, extension anatomy, tutorials, patterns
+- **docs/STUDY_PLAN.md** — Zero-to-hero learning plan (9 phases)
 - **COMPARISON.md** — Claude Code vs Pi Agent feature matrix
 - **THEME.md** — Color token conventions
 - **TOOLS.md** — Built-in tool signatures
